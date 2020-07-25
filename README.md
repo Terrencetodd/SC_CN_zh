@@ -25,6 +25,7 @@ Russian
 2. Запустите modding-begin.py питон скрипт для активации среди модификации. Чтобы выключить её запустите modding-end.py
 
 Chinese （简体中文）
+
 1.简体中文将使用特殊方式发放，我们目前暂时使用腾讯QQ群629505032进行测试
 2.Github方式 git (可选)
 3.Python 3.8: https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe
