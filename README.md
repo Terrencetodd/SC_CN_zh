@@ -11,5 +11,5 @@ Chinese （简体中文）
 1. 将文件解压至 "...\StarCitizen\LIVE"文件夹
 2. 打开modding-begin.py 脚本来运行modding环境，使用modding-end.py取消
 
-如何获得汉化方面的帮助：
-1.QQ群：157448536
+如何获得汉化方面的帮助： 
+1.QQ群：157448536 
