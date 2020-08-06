@@ -1,4 +1,4 @@
-# StarCitizenModding
+# 星际公民模组化
 
 Chinese （简体中文）
 
