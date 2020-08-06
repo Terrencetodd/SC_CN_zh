@@ -4,8 +4,8 @@ Chinese （简体中文）
 
 系统要求:
 1. Github方式 git (可选)
-2. Python 3.8: https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe
-3. StarCitizen-Helper：https://github.com/Shin0by/StarCitizen-Helper
+2. 通过Python 3.8运行: https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe 安装。或通过软件StarCitizen-Helper：https://github.com/Shin0by/StarCitizen-Helper 下载使用
+
 
 如何设置修改环境:
 1. 将文件解压至 "...\StarCitizen\LIVE"文件夹
